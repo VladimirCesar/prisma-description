@@ -12,3 +12,6 @@
    2. [Определение дополнительного функционала](/pages/client_aggrid_additional.md)
 ## 2. [Описание промежуточного приложения](/pages/router_api.md)
 ## 3. [Способы интеграции](/pages/integration.md)
+## 4. Описание серверной части
+1. [Механизм оперативных данных](/pages/server_preparing_data.md)
+2. [Структура базы данных](/pages/server_database_structure.md)
