@@ -1,7 +1,7 @@
 # **PRISMA**
 ## Техническая документация проекта "Призма"
 
-# Содержание:
+## Содержание:
 
 ## 1. Описание клиентского приложения
 1. [Основа клиентского приложения](https://github.com/VladimirCesar/prisma-description/blob/main/pages/client_basis.md)
