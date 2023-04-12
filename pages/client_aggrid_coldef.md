@@ -129,10 +129,10 @@
                 }
             ]
         }, { 
-            headerName: 'prices',
-            child.suppressMovable=false;
-            child.marryChildren = true;
-            children: [
+                headerName: 'prices',
+                child.suppressMovable=false;
+                child.marryChildren = true;
+                children: [
                 {
                     field: 'opp',
                     headerName: 'СОП',
